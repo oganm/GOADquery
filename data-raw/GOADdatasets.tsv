@@ -1,0 +1,48 @@
+"Comparison"	"ID"	"Paper"	"Author"	"Year"
+"MICROGLIA vs. ASTROCYTES"	1	"Unique transcriptome signature of mouse microglia"	"Beutner et al"	2013
+"MICROGLIA vs. MACROPHAGES"	2	"Unique transcriptome signature of mouse microglia"	"Beutner et al"	2013
+"MICROGLIA vs. NEURONS"	3	"Unique transcriptome signature of mouse microglia"	"Beutner et al"	2013
+"MICROGLIA vs. BONE MARROW MACROPHAGES"	4	"Gene-expression profiles and transcriptional regulatory pathways that underlie the identity and diversity of mouse tissue macrophages"	"Gautier et al"	2012
+"MICROGLIA vs. CLASSICAL MONOCYTES (MHC+)"	5	"Gene-expression profiles and transcriptional regulatory pathways that underlie the identity and diversity of mouse tissue macrophages"	"Gautier et al"	2012
+"MICROGLIA vs. CLASSICAL MONOCYTES (MHC-)"	6	"Gene-expression profiles and transcriptional regulatory pathways that underlie the identity and diversity of mouse tissue macrophages"	"Gautier et al"	2012
+"MICROGLIA vs. NEUTROPHILS"	7	"Gene-expression profiles and transcriptional regulatory pathways that underlie the identity and diversity of mouse tissue macrophages"	"Gautier et al"	2012
+"ALS MICROGLIA (SOD1, DAY 100) vs. CONTROL MICROGLIA "	8	"A neurodegeneration-specific gene-expression signature of acutely isolated microglia from an amyotrophic lateral sclerosis mouse model."	"Chiu et al"	2013
+"ALS MICROGLIA (SOD1, ENDPOINT) vs. CONTROL MICROGLIA"	9	"A neurodegeneration-specific gene-expression signature of acutely isolated microglia from an amyotrophic lateral sclerosis mouse model."	"Chiu et al"	2013
+"ASTROCYTES vs. NEURONS"	10	"A Transcriptome Database for Astrocytes, Neurons, and Oligodendrocytes: A New Resource for Understanding Brain Development and Function"	"Cahoy et al"	2008
+"ASTROCYTES vs. OLIGODENDROCYTES"	11	"A Transcriptome Database for Astrocytes, Neurons, and Oligodendrocytes: A New Resource for Understanding Brain Development and Function"	"Cahoy et al"	2008
+"OLIGODENDROCYTES vs. NEURONS"	12	"A Transcriptome Database for Astrocytes, Neurons, and Oligodendrocytes: A New Resource for Understanding Brain Development and Function"	"Cahoy et al"	2008
+"OLIGODENDROCYTES vs. OPCS"	13	"A Transcriptome Database for Astrocytes, Neurons, and Oligodendrocytes: A New Resource for Understanding Brain Development and Function"	"Cahoy et al"	2008
+"ACCELERATED AGING (ERCC1) MICROGLIA vs. CONTROL MICROGLIA"	14	"Priming of Microglia in a DNA-Repair Deficient Model of Accelerated Aging"	"Raj et al"	2014
+"ASTROCYTES (GFAP-GFP+/GLT+-) vs. CONTROLS (GLT-)"	15	"The transcriptome and metabolic gene signature of protoplasmic astrocytes in the adult murine cortex"	"Lovatt et al"	2007
+"BERGMAN GLIA vs. (TRAP) NEGATIVE FRACTION"	16	"Application of a translational profiling approach for the comparative analysis of CNS cell types"	"Doyle et al"	2008
+"MATURE OLIGODENDROCYTES vs. (TRAP) NEGATIVE FRACTION"	17	"Application of a translational profiling approach for the comparative analysis of CNS cell types"	"Doyle et al"	2008
+"MIXED OLIGODENDROGLIA vs. (TRAP) NEGATIVE FRACTION"	18	"Application of a translational profiling approach for the comparative analysis of CNS cell types"	"Doyle et al"	2008
+"ALZHEIMER'S DISEASE (APP-PS1) ASTROCYTES vs. WT ASTROCYTES"	19	"The transcriptome of Amyloid plaque-induced astrocyte and microglia reactivity"	"Orre et al "	2014
+"ALZHEIMER'S DISEASE (APP-PS1) MICROGLIA vs. WT MICROGLIA"	20	"The transcriptome of Amyloid plaque-induced astrocyte and microglia reactivity"	"Orre et al "	2014
+"AGING (15-18 MONTHS) ASTROCYTES vs. YOUNG (2 MONTHS) ASTROCYTES"	21	"Transcriptome characterization of astrocytes and microglia"	"Orre et al "	2013
+"LPS-STIMULATED MICROGLIA (4HR) vs. CONTROL MICROGLIA"	22	"Distinct microglia gene expression signatures induced by aging and neurodegenerative conditions"	"Holtman et al"	2015
+"OLD (24M) MICROGLIA vs. YOUNG (5M) MICROGLIA"	23	"Distinct microglia gene expression signatures induced by aging and neurodegenerative conditions"	"Holtman et al"	2015
+"MICROGLIA (CONTROL) vs. TOTAL BRAIN"	24	"The microglial sensome revealed by direct RNA sequencing"	"Hickman et al"	2013
+"OLD (24M) MICROGLIA vs. YOUNG (5M) MICROGLIA"	25	"The microglial sensome revealed by direct RNA sequencing"	"Hickman et al"	2013
+"GL261 -GLIOMA ASSOCIATED MICROGLIA (GAM) vs. CONTROL MICROGLIA"	26	"Glioma-associated microglia/macrophages display an expression profile distinct from M1 and M2 polarization"	"Szulzewsky et al"	2015
+"RAMIFIED MICROGLIA vs. AMEBOID MICROGLIA"	27	"Transcriptome analysis of amoeboid and ramified microglia isolated from the corpus callosum of rat brain"	"Parakalan"	2012
+"CUPRIZONE: DEMYELINATED MICROGLIA 2 WEEKS vs. CONTROL MICROGLIA"	28	"Identification of a microglia phenotype supportive of remyelination"	"Olah et al"	2012
+"CUPRIZONE: DEMYELINATED MICROGLIA 5 WEEKS vs. DEMYELINATED MICROGLIA 2 WEEKS"	29	"Identification of a microglia phenotype supportive of remyelination"	"Olah et al"	2012
+"CUPRIZONE: REMYELINATED MICROGLIA 2 WEEKS vs. DEMYELINATED MICROGLIA 5 WEEKS"	30	"Identification of a microglia phenotype supportive of remyelination"	"Olah et al"	2012
+"CUPRIZONE: REMYELINATED MICROGLIA 5 WEEKS vs. REMYELINATED MICROGLIA 2 WEEKS"	31	"Identification of a microglia phenotype supportive of remyelination"	"Olah et al"	2012
+"ALS MICROGLIA (SOD1 ENDPOINT)  vs. CONTROL MICROGLIA"	32	"A neurodegeneration-specific gene-expression signature of acutely isolated microglia from an amyotrophic lateral sclerosis mouse model."	"Chiu et al"	2013
+"MICROGLIA BRAIN REGIONS: WHITE MATTER (CEREBELLUM)  vs. OTHER REGIONS"	33	"Glia Open Access Database (GOAD): A Comprehensive Gene Expression Encyclopedia of Glia cells in health and disease"	"Holtman et al."	2015
+"MICROGLIA BRAIN REGIONS: GREY MATTER (CORTEX)  vs. OTHER REGIONS"	34	"Glia Open Access Database (GOAD): A Comprehensive Gene Expression Encyclopedia of Glia cells in health and disease"	"Holtman et al."	2015
+"MICROGLIA BRAIN REGIONS: HIPPOCAMPUS  vs. OTHER REGIONS"	35	"Glia Open Access Database (GOAD): A Comprehensive Gene Expression Encyclopedia of Glia cells in health and disease"	"Holtman et al."	2015
+"MICROGLIA BRAIN REGIONS: CEREBELLUM  vs. OTHER REGIONS"	36	"Glia Open Access Database (GOAD): A Comprehensive Gene Expression Encyclopedia of Glia cells in health and disease"	"Holtman et al."	2015
+"ASTROCYTES (DIEC_GFP)  vs. NEURAL STEM CELL (ONLY SEZ_GFPPROM)"	37	"In Vivo Fate Mapping and Expression Analysis Reveals Molecular Hallmarks of Prospectively Isolated Adult Neural Stem Cells"	"Beckervordersandforth et al."	2010
+"ASTROCYTES (DIEC_GFP)  vs. NEURAL STEM CELL (ALL POPULATIONS)"	38	"In Vivo Fate Mapping and Expression Analysis Reveals Molecular Hallmarks of Prospectively Isolated Adult Neural Stem Cells"	"Beckervordersandforth et al."	2010
+"ALZHEIMER'S DISEASE MICROGLIA (5XFAD)  vs. ALZHEIMER'S DISEASE MICROGLIA (TREM2-KO & 5XFAD)"	39	"TREM2 Lipid Sensing Sustains the Microglial Response in an Alzheimer's Disease Model"	"Wang et al."	2015
+"ALZHEIMER'S DISEASE MICROGLIA (5XFAD)  vs. WILD TYPE MICROGLIA"	40	"TREM2 Lipid Sensing Sustains the Microglial Response in an Alzheimer's Disease Model"	"Wang et al."	2015
+"MICROGLIA (TREM2-KO)  vs. WILD TYPE MICROGLIA"	41	"TREM2 Lipid Sensing Sustains the Microglial Response in an Alzheimer's Disease Model"	"Wang et al."	2015
+"ALZHEIMER'S DISEASE MICROGLIA (TREM2-KO & 5XFAD)  vs. WILD TYPE MICROGLIA"	42	"TREM2 Lipid Sensing Sustains the Microglial Response in an Alzheimer's Disease Model"	"Wang et al."	2015
+"ALZHEIMER'S DISEASE MICROGLIA (TREM2-KO & 5XFAD)  vs. MICROGLIA (TREM2-KO)"	43	"TREM2 Lipid Sensing Sustains the Microglial Response in an Alzheimer's Disease Model"	"Wang et al."	2015
+"MFP2-KO MICROGLIA  vs. WILD TYPE MICROGLIA"	44	"Identification of a chronic non-neurodegenerative microglia activation state in a mouse model of peroxisomal beta-oxidation deficiency"	"Verheijden et al."	2015
+"USP18-KO MICROGLIA  vs. WILD TYPE MICROGLIA "	45	"USP18 lack in microglia causes destructive interferonopathy of the mouse brain."	"Goldmann et al."	2015
+"IFNAR-KO MICROGLIA  vs. WILD TYPE MICROGLIA "	46	"USP18 lack in microglia causes destructive interferonopathy of the mouse brain."	"Goldmann et al."	2015
+"MECP2-KO MICROGLIA  vs. WILD TYPE MICROGLIA "	47	"Methyl-CpG Binding Protein 2 Regulates Microglia and Macrophage Gene Expression in Response to Inflammatory Stimuli."	"Cronck et al. "	2015
